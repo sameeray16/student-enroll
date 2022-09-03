@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.heading{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+.da-form{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.rhs{
+    min-height: 100vh;
+    background-color: rgb(30 41 59);
+    
+}
+
+.btn{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.lhs{
+    background-color: rgb(15 23 42);
+}
+
+#output{
+    padding: 20px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.image{
+    height: 180px;
+    width: 180px;
+    border: 1px solid yellow;
+}
